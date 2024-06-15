@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640862302744",
+    "project_id": "memomolproject",
+    "storage_bucket": "memomolproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640862302744:android:980dfbe95bd411186dc96d",
+        "android_client_info": {
+          "package_name": "com.example.memomolproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxfBusGk2iA5pV2OI-Iq6JkyvKHqFnbGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
